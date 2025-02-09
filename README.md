@@ -1,9 +1,20 @@
-# RESTapi.js (Node.js + Express)
+<<<<<<< HEAD
+=======
+This project is a simple public API that follows REST principles to retrieve basic information
 
-This is a simple public API that follows REST principles to retrieve basic information
+# INSTRUCTIONS
+>>  install Node.js on your machine
 
-## Features
-- **GET /api/ >> retreives  basic information.
+# CLONE RESPOSITORY
+git clone https://github.com/yourusername/your-repo.git
+cd your-repo
+
+# INSTALL DEPENDENCIES
+npm i
+
+# START SERVER
+node RESTapi
+
 
 API Endpoints
 ## app.get("/", (req, res))
@@ -16,3 +27,7 @@ Returns:
   "github_url": "https://github.com/idychristian/basicInfo_RESTAPI"
 }
 }
+
+# BACKLINK
+https://hng.tech/hire/nodejs-developers
+>>>>>>> cfeea69 (second commit)
